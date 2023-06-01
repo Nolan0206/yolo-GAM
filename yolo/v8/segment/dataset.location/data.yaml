@@ -1,0 +1,6 @@
+train: "datasets/train"
+val: "datasets/val"
+# number of classes
+nc: 1
+# class names
+names: ['boat']
